@@ -27,7 +27,11 @@ This project is a web-based interface for managing Windows Task Scheduler tasks.
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository:
+   ```
+   git clone https://github.com/bing-open/windows-task-scheduler-manager.git
+   cd windows-task-scheduler-manager
+   ```
 2. Install frontend dependencies:
    ```
    npm install
@@ -78,6 +82,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## GitHub Repository
 
-[Link to GitHub Repository](https://github.com/your-username/windows-task-scheduler-manager)
-
-Replace `your-username` with your actual GitHub username after you've created the repository.
+[Windows Task Scheduler Manager Repository](https://github.com/bing-open/windows-task-scheduler-manager)
